@@ -48,7 +48,7 @@ When I'm not working with data, I enjoy being outdoors with my family and spendi
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20Automate-276DC3?style=flat&logo=r&logoColor=white" alt="Power Automate Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Automate-Advanced-276DC3?style=flat&logo=r&logoColor=white" alt="Power Automate Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
